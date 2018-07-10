@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: Testing
+title: Our Coffee Production
 image: /img/jumbotron.jpg
 heading: What we offer
 description: >-
